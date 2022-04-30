@@ -1,5 +1,7 @@
 ## Game of Life
  İkinci projemiz Conway'in Hayat Oyunu'ndan esinlenildi. 
+ 
+ Not: Beyaz arka planla hücrelerin matris numaraları da gözükür.
 
 Biz popülasyon değişimini değil de günümüzle de ilgili olan bir hastalığın yayılma örüntüsünü inceledik.
 
